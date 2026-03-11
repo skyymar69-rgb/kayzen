@@ -1,0 +1,31 @@
+﻿{
+  "nav": {
+    "home": "Startseite",
+    "pricing": "Preise",
+    "login": "Anmelden"
+  },
+  "hero": {
+    "title": "Dominieren Sie LLM-Antworten 2026",
+    "subtitle": "Die erste 100% souveräne Generative Engine Optimization Plattform",
+    "cta": "Kostenlos starten"
+  },
+  "home": {
+    "features": "Unsere Funktionen"
+  },
+  "pricing": {
+    "title": "Einfache und transparente Preisgestaltung",
+    "subtitle": "Wählen Sie den Plan, der zu Ihnen passt"
+  },
+  "footer": {
+    "description": "SEO-Tool der nächsten Generation zur Dominierung von LLMs",
+    "product": "Produkt",
+    "company": "Unternehmen",
+    "legal": "Rechtliches",
+    "features": "Funktionen",
+    "pricing": "Preise",
+    "about": "Über uns",
+    "blog": "Blog",
+    "privacy": "Datenschutz",
+    "terms": "Bedingungen"
+  }
+}

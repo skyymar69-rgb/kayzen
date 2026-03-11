@@ -1,0 +1,31 @@
+﻿{
+  "nav": {
+    "home": "Accueil",
+    "pricing": "Tarification",
+    "login": "Connexion"
+  },
+  "hero": {
+    "title": "Dominez les réponses des LLM en 2026",
+    "subtitle": "La première plateforme GEO (Generative Engine Optimization) 100% souveraine",
+    "cta": "Commencer gratuitement"
+  },
+  "home": {
+    "features": "Nos fonctionnalités"
+  },
+  "pricing": {
+    "title": "Tarification simple et transparente",
+    "subtitle": "Choisissez le plan qui vous convient"
+  },
+  "footer": {
+    "description": "L'outil SEO de nouvelle génération pour dominer les LLM",
+    "product": "Produit",
+    "company": "Entreprise",
+    "legal": "Légal",
+    "features": "Fonctionnalités",
+    "pricing": "Tarification",
+    "about": "À propos",
+    "blog": "Blog",
+    "privacy": "Confidentialité",
+    "terms": "Conditions"
+  }
+}

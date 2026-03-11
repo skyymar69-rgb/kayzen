@@ -1,0 +1,31 @@
+﻿{
+  "nav": {
+    "home": "Home",
+    "pricing": "Pricing",
+    "login": "Login"
+  },
+  "hero": {
+    "title": "Dominate LLM Responses in 2026",
+    "subtitle": "The first 100% sovereign Generative Engine Optimization platform",
+    "cta": "Get started free"
+  },
+  "home": {
+    "features": "Our features"
+  },
+  "pricing": {
+    "title": "Simple and transparent pricing",
+    "subtitle": "Choose the plan that suits you"
+  },
+  "footer": {
+    "description": "Next-generation SEO tool to dominate LLMs",
+    "product": "Product",
+    "company": "Company",
+    "legal": "Legal",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "blog": "Blog",
+    "privacy": "Privacy",
+    "terms": "Terms"
+  }
+}

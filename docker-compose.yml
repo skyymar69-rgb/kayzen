@@ -1,0 +1,31 @@
+﻿version: '3.8'
+
+services:
+  postgres:
+    image: postgres:15
+    container_name: kayzen-db
+    environment:
+      POSTGRES_USER: kayzen_app
+      POSTGRES_PASSWORD: K7mP9xQ2wL4nR8sT
+      POSTGRES_DB: kayzen_prod
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  redis:
+    image: redis:7-alpine
+    container_name: kayzen-redis
+    ports:
+      - "6379:6379"
+
+  ollama:
+    image: ollama/ollama
+    container_name: kayzen-ollama
+    ports:
+      - "11434:11434"
+    environment:
+      - OLLAMA_HOST=0.0.0.0:11434
+
+volumes:
+  postgres_data:

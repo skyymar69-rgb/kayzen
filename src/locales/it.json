@@ -1,0 +1,31 @@
+﻿{
+  "nav": {
+    "home": "Home",
+    "pricing": "Prezzi",
+    "login": "Accedi"
+  },
+  "hero": {
+    "title": "Domina le risposte LLM nel 2026",
+    "subtitle": "La prima piattaforma di ottimizzazione del motore generativo 100% sovrana",
+    "cta": "Inizia gratuitamente"
+  },
+  "home": {
+    "features": "Le nostre caratteristiche"
+  },
+  "pricing": {
+    "title": "Prezzi semplici e trasparenti",
+    "subtitle": "Scegli il piano che fa per te"
+  },
+  "footer": {
+    "description": "Strumento SEO di nuova generazione per dominare gli LLM",
+    "product": "Prodotto",
+    "company": "Azienda",
+    "legal": "Legale",
+    "features": "Caratteristiche",
+    "pricing": "Prezzi",
+    "about": "Chi siamo",
+    "blog": "Blog",
+    "privacy": "Privacy",
+    "terms": "Termini"
+  }
+}
